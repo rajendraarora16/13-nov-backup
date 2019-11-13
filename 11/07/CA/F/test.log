@@ -1,0 +1,10 @@
+2019/11/07 00:01:44 - Test Created
+2019/11/07 00:14:19 - Starting test (initiated by tester csd002.taboolasyndication.com-10.101.32.107)
+2019/11/07 00:16:51 - Test Run Complete. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107, Test Run Error: "Page Load Timeout"
+2019/11/07 00:16:51 - Extracting 150321 byte uploaded file '/tmp/phpfFLhIa' to './results/19/11/07/CA/F'
+2019/11/07 00:16:51 - Done Processing. Run: 1, Cached: 0, Done: , Tester: csd002.taboolasyndication.com-10.101.32.107, Test Run Error: "Page Load Timeout"
+2019/11/07 00:17:11 - Test Run Complete. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/11/07 00:17:11 - Extracting 66488 byte uploaded file '/tmp/phpTvAjBg' to './results/19/11/07/CA/F'
+2019/11/07 00:17:12 - Done Processing. Run: 1, Cached: 1, Done: 1, Tester: csd002.taboolasyndication.com-10.101.32.107
+2019/11/07 00:17:12 - Test Complete
+2019/11/07 00:17:12 - Test post-processing complete

@@ -1,0 +1,11 @@
+Test ID=191104_VR_W
+url=http://nbcnews.com
+fvonly=1
+timeline=1
+timelineStackDepth=0
+Capture Video=1
+runs=3
+browser=Chrome
+lighthouseTrace=1
+orientation=default
+IPAddr=172.29.41.169
